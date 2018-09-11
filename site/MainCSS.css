@@ -1,0 +1,15 @@
+*
+{
+ margin: 0;
+}
+body
+{
+	background: linear-gradient(to right, #fb02fd -30% ,black 10%, black 90%, #11d9d3 110%);
+    margin: 0 10%;
+}
+
+#header-nav{
+	background-color: white;
+	height:100px;
+}
+
